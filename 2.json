@@ -1,0 +1,2995 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3231175,
+          27.0107724
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.52047429999999,
+          26.69812989999999
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.0584466,
+          26.8168872
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2854696,
+          26.4641225
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2817584,
+          26.6615931
+        ]
+      },
+      "properties": {
+        "name": "E-Fill Electric Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.5406653,
+          26.6611377
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.34758959999999,
+          26.78583189999999
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2749145,
+          26.663007
+        ]
+      },
+      "properties": {
+        "name": "chargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.723595,
+          26.39271669999999
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.28553,
+          26.468162
+        ]
+      },
+      "properties": {
+        "name": "ChargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2817584,
+          26.6615931
+        ]
+      },
+      "properties": {
+        "name": "E-Fill Electric Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2749145,
+          26.663007
+        ]
+      },
+      "properties": {
+        "name": "chargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2006803,
+          26.6677701
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.276151,
+          26.6521067
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2705412,
+          26.6643744
+        ]
+      },
+      "properties": {
+        "name": "Gadicharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.0584466,
+          26.8168872
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2900073,
+          26.7975679
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2854696,
+          26.4641225
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.27165699999999,
+          26.6752594
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29122029999999,
+          26.6580842
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2993616,
+          27.6854476
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3225094,
+          27.7359432
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3413097,
+          27.7189652
+        ]
+      },
+      "properties": {
+        "name": "CG Motors Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6747377,
+          28.22345839999999
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9780492,
+          28.2215481
+        ]
+      },
+      "properties": {
+        "name": "Bishwas Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9708342,
+          28.2131519
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.6085423,
+          27.8696206
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.41543829999999,
+          27.9553388
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.97831699999999,
+          28.2073986
+        ]
+      },
+      "properties": {
+        "name": "Clean energy Charging station pokhara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9726209,
+          28.2014117
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0716858,
+          28.0714236
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3070576,
+          27.7308451
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3019211,
+          27.6738365
+        ]
+      },
+      "properties": {
+        "name": "Tata Power Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3180848,
+          27.7023066
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8360043,
+          28.0799438
+        ]
+      },
+      "properties": {
+        "name": "ElectriVa Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.649911,
+          28.5312108
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.30673809999999,
+          27.7349111
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.61729,
+          27.87394
+        ]
+      },
+      "properties": {
+        "name": "Gadicharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6929411,
+          28.2225147
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.62119,
+          27.87876
+        ]
+      },
+      "properties": {
+        "name": "Gadicharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3472654,
+          27.6847555
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.31609399999999,
+          27.988566
+        ]
+      },
+      "properties": {
+        "name": "ChargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4426677,
+          27.6786574
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3168281,
+          27.69157229999999
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.316459,
+          27.7048395
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.331223,
+          27.720146
+        ]
+      },
+      "properties": {
+        "name": "ChargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31266,
+          27.67594
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4599997,
+          27.6537529
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.406863,
+          27.671964
+        ]
+      },
+      "properties": {
+        "name": "chargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31797,
+          27.6828
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.62122049999999,
+          27.8783762
+        ]
+      },
+      "properties": {
+        "name": "chargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.29406,
+          27.69708
+        ]
+      },
+      "properties": {
+        "name": "ChargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3206532,
+          27.6789254
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4050132,
+          27.9668772
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.95926999999999,
+          28.18835
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9833355,
+          28.23996469999999
+        ]
+      },
+      "properties": {
+        "name": "EV Go Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.37093,
+          27.69305
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.94972,
+          28.22948
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31358,
+          27.67869
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31799579999999,
+          27.6830868
+        ]
+      },
+      "properties": {
+        "name": "ChargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.27673999999999,
+          27.98691999999999
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.59855999999999,
+          28.64216
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6542,
+          28.49778
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.56132769999999,
+          27.8566013
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3428768,
+          27.72238249999999
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9524568,
+          28.2236891
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9970898,
+          28.2056376
+        ]
+      },
+      "properties": {
+        "name": "chargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31833,
+          27.70948
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3219842,
+          27.7111125
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.33529,
+          27.66325999999999
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.66812399999999,
+          27.93218
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3253714,
+          27.7503212
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3206905,
+          27.713444
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.322559,
+          27.735934
+        ]
+      },
+      "properties": {
+        "name": "AirCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.32686199999999,
+          27.6583421
+        ]
+      },
+      "properties": {
+        "name": "AirCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3045167,
+          27.6835137
+        ]
+      },
+      "properties": {
+        "name": "Gadi Charge Pvt. Ltd."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.60854189999999,
+          27.8696152
+        ]
+      },
+      "properties": {
+        "name": "thee GO Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.30406959999999,
+          27.67126799999999
+        ]
+      },
+      "properties": {
+        "name": "EV Charging Station (Electric Vehicle)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.37559,
+          28.23458
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.33245,
+          27.7093
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31618309999999,
+          27.7054555
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.24387,
+          27.98132
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.958919,
+          28.2081703
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6884783,
+          28.7513317
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.072299,
+          28.0726234
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.957697,
+          28.2078838
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.2566514,
+          27.9792903
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3141679,
+          27.7315711
+        ]
+      },
+      "properties": {
+        "name": "Shree Ralukaa Devi Auto Care Centre Pvt. Ltd & Ev Fast Charging (ccs2 , DC ) Stations"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.35714639999999,
+          27.6767484
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0571507,
+          28.1614625
+        ]
+      },
+      "properties": {
+        "name": "Emerge Cafe, Restro, Car Wash & FastEV Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9763023,
+          28.2152097
+        ]
+      },
+      "properties": {
+        "name": "Ivan Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3584441,
+          27.7716401
+        ]
+      },
+      "properties": {
+        "name": "Ather Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3070762,
+          27.7306812
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehical Charging Station (PCR)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.33903889999999,
+          27.7236128
+        ]
+      },
+      "properties": {
+        "name": "ElectriVa Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3226656,
+          27.7255646
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3648377,
+          27.72032
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.36713999999999,
+          27.73223
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge \u091a\u093e\u0930\u094d\u091c\u093f\u0919 \u0938\u094d\u091f\u0947\u0938\u0928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.1827923,
+          27.988846
+        ]
+      },
+      "properties": {
+        "name": "EV Park Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3132686,
+          27.6783841
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.32794109999999,
+          27.7175948
+        ]
+      },
+      "properties": {
+        "name": "Ather Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9809051,
+          28.2258492
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3203944,
+          27.7101009
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.41061909999999,
+          27.6703452
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.62281,
+          27.87243
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.30991399999999,
+          27.7344722
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7688553,
+          27.9855894
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.305578,
+          27.6910046
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3283594,
+          27.6927375
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3403539,
+          27.7103676
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3799885,
+          27.7166095
+        ]
+      },
+      "properties": {
+        "name": "Barneshwor EV Fast Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.3139152,
+          27.988073
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9826272,
+          28.203567
+        ]
+      },
+      "properties": {
+        "name": "EV Park Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3237434,
+          27.661298
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.6170633,
+          27.8740474
+        ]
+      },
+      "properties": {
+        "name": "Kia Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.957308,
+          28.2133096
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7337713,
+          28.78568379999999
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3513512,
+          27.6893723
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.71594759999999,
+          28.7770077
+        ]
+      },
+      "properties": {
+        "name": "MUSTANG CHARGE-X (ev fast charging)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.989983,
+          28.2175389
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3529271,
+          27.7192382
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3794405,
+          27.6737414
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4237034,
+          27.9528846
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5580868,
+          27.854083
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicles Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.66553359999999,
+          27.9389428
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3319123,
+          27.7084541
+        ]
+      },
+      "properties": {
+        "name": "ElectriVa Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9738564,
+          28.1923516
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.30813979999999,
+          27.6775165
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3184697,
+          27.6919415
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.98729879999999,
+          28.2120941
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station MG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.38058,
+          28.2256168
+        ]
+      },
+      "properties": {
+        "name": "Adhikari Charging Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9519938,
+          28.22160449999999
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.99828529999999,
+          28.2057141
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4140673,
+          27.6760208
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3312393,
+          27.7202969
+        ]
+      },
+      "properties": {
+        "name": "Heritage Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4560757,
+          27.68723
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0917032,
+          28.1656435
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6179105,
+          28.2558551
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.356161,
+          27.650595
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.84757359999999,
+          28.0845841
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3964207,
+          27.67872
+        ]
+      },
+      "properties": {
+        "name": "Bhimashankar EV Charging and Washing Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3112541,
+          27.7331608
+        ]
+      },
+      "properties": {
+        "name": "Siddhanta international pvt ltd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5677362,
+          28.3497601
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3099198,
+          27.69479879999999
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3742177,
+          27.722538
+        ]
+      },
+      "properties": {
+        "name": "Om Chamunda Auto care and charging station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3191241,
+          27.6560124
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4559537,
+          27.6873312
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4121277,
+          27.6696167
+        ]
+      },
+      "properties": {
+        "name": "Ather Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3746068,
+          27.7171975
+        ]
+      },
+      "properties": {
+        "name": "Mulkharka Bhimsen Charging Center and Rental service"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3186913,
+          27.6923369
+        ]
+      },
+      "properties": {
+        "name": "Hyundai Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3334663,
+          27.6682329
+        ]
+      },
+      "properties": {
+        "name": "AirCharge Gwarko Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9629964,
+          28.2061965
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.602294,
+          27.871794
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.63336799999999,
+          27.9838288
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3739398,
+          27.717793
+        ]
+      },
+      "properties": {
+        "name": "Mulkharka Bhimshen Ev station and rental service"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3287138,
+          27.723159
+        ]
+      },
+      "properties": {
+        "name": "Tesla Destination Charger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3144471,
+          27.6937937
+        ]
+      },
+      "properties": {
+        "name": "Gogoro Battery Swap Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.45380019999999,
+          27.778776
+        ]
+      },
+      "properties": {
+        "name": "ElectriVa Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3177876,
+          27.7354499
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3559245,
+          27.7123812
+        ]
+      },
+      "properties": {
+        "name": "chargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9762039,
+          28.2215377
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4393855,
+          28.1448551
+        ]
+      },
+      "properties": {
+        "name": "Shrestha Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9844214,
+          28.2074374
+        ]
+      },
+      "properties": {
+        "name": "Charge & Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.36918209999999,
+          27.6885109
+        ]
+      },
+      "properties": {
+        "name": "BHADGAUN Bhaktapur AUTO TECH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3860766,
+          27.7221251
+        ]
+      },
+      "properties": {
+        "name": "GoStation Jorpati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.30365189999999,
+          27.7154453
+        ]
+      },
+      "properties": {
+        "name": "Gogoro Battery Swap Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3930773,
+          27.6740235
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.43527139999999,
+          27.63535719999999
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.34598179999999,
+          27.7246909
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31292719999999,
+          27.6630778
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9706226,
+          28.2125409
+        ]
+      },
+      "properties": {
+        "name": "AirCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3689903,
+          27.7188337
+        ]
+      },
+      "properties": {
+        "name": "Triveni Motocorp service centre Jorpati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.98421189999999,
+          28.2085671
+        ]
+      },
+      "properties": {
+        "name": "Charge & Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.84796539999999,
+          28.285657
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6601511,
+          28.2417393
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3545872,
+          27.6741004
+        ]
+      },
+      "properties": {
+        "name": "MAW Vridhhi Charging station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3103082,
+          27.7325846
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0375557,
+          28.1833478
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4236839,
+          27.9528978
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9739434,
+          28.1955288
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.35842939999999,
+          27.7716709
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9779327,
+          28.2201869
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6819393,
+          28.2188251
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.45401989999999,
+          27.7784851
+        ]
+      },
+      "properties": {
+        "name": "ElectiVa Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.306788,
+          27.72724809999999
+        ]
+      },
+      "properties": {
+        "name": "Ev power Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3562359,
+          27.7557588
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9564808,
+          28.2442363
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.742465,
+          28.2740964
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3714779,
+          27.7213163
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.19203759999999,
+          27.8356824
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4613,
+          27.78727
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.32084379999999,
+          27.7100436
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.6169992,
+          27.8725445
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9696625,
+          28.2040035
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8925517,
+          27.8602889
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3440889,
+          27.7328137
+        ]
+      },
+      "properties": {
+        "name": "Rasuwagadhi Hydropower Company Ltd."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2960155,
+          27.7165259
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3413975,
+          27.7215997
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5984539,
+          28.2805408
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5348475,
+          27.9045639
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.98438929999999,
+          28.2074711
+        ]
+      },
+      "properties": {
+        "name": "Pokhara Bus park EV Charging Sation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6909483,
+          28.1977253
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6364421,
+          28.0657023
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.956518,
+          27.876903
+        ]
+      },
+      "properties": {
+        "name": "BPCL Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.83328499999999,
+          27.9127143
+        ]
+      },
+      "properties": {
+        "name": "BPCL Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.616083,
+          28.052694
+        ]
+      },
+      "properties": {
+        "name": "ChargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6425,
+          28.0828
+        ]
+      },
+      "properties": {
+        "name": "chargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.65832499999999,
+          28.113333
+        ]
+      },
+      "properties": {
+        "name": "ChargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.71848489999999,
+          28.4580055
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7787,
+          27.98654
+        ]
+      },
+      "properties": {
+        "name": "BPCL eDrive Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7015547,
+          28.19834419999999
+        ]
+      },
+      "properties": {
+        "name": "chargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.63416699999999,
+          29.259738
+        ]
+      },
+      "properties": {
+        "name": "ChargeMOD Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5707092,
+          28.7079497
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5848547,
+          28.7068606
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.62338609999999,
+          28.5864887
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.96381,
+          29.26638
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5704645,
+          29.0895697
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9675128,
+          28.6741963
+        ]
+      },
+      "properties": {
+        "name": "ElectriVa Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.71848489999999,
+          28.4580055
+        ]
+      },
+      "properties": {
+        "name": "GadiCharge Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2781473,
+          28.6408717
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6184937,
+          28.5910503
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5659111,
+          28.7433746
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.56891639999999,
+          28.708045
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6909483,
+          28.1977253
+        ]
+      },
+      "properties": {
+        "name": "Electric Vehicle Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6294498,
+          28.5830065
+        ]
+      },
+      "properties": {
+        "name": "ev charging station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.65269599999999,
+          28.57012079999999
+        ]
+      },
+      "properties": {
+        "name": "Ev Fast Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.57041459999999,
+          29.0894455
+        ]
+      },
+      "properties": {
+        "name": "MAW VRIDDHI Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5705347,
+          29.0895161
+        ]
+      },
+      "properties": {
+        "name": "thee GO Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3304392,
+          28.4391906
+        ]
+      },
+      "properties": {
+        "name": "Force Fast EV Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1197882,
+          28.5437068
+        ]
+      },
+      "properties": {
+        "name": "ElectriVa Charging Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1180081,
+          28.5316045
+        ]
+      },
+      "properties": {
+        "name": "Energy Station"
+      }
+    }
+  ]
+}

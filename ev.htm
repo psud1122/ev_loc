@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OSM Leaflet Map</title>
+    
+    <!-- 1. Include Leaflet CSS for core map styling -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    
+    <style>
+        /* 2. Set the map container size to fill the browser window */
+        html, body, #map {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- 3. The container element where your map will render -->
+    <div id="map"></div>
+
+    <!-- 4. Include Leaflet JavaScript engine -->
+    
+
+    <script>
+        // 5. Initialize the map object (centered on Nepal coordinates by default)
+        const map = L.map('map').setView([28.3949, 84.1240], 7);
+
+        // 6. Add OpenStreetMap map layer tiles
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="https://openstreetmap.org">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        // 7. Load external data file using Javascript Fetch API
+        // NOTE: Replace 'stations_next.geojson' with your exact target file name
+        fetch('1.json')
+    .then(response => response.json())
+    .then(data => {
+        L.geoJSON(data, {
+            // 1. Convert structural point geometries into circle vector elements
+            pointToLayer: function (feature, latlng) {
+                return L.circleMarker(latlng, {
+                    radius: 10,            // Set the circle size to exactly 5 pixels
+                    fillColor: "#ff0000", // Target dot fill color (Red)
+                    color: "#ff0000",     // Target border stroke color (Darker Red)
+                    weight: 1,            // Outline border width line thickness
+                    opacity: 1,           // Outline transparency setting
+                    fillOpacity: 0.9      // Inner fill block color transparency
+                });
+            },
+            // 2. Bind the existing functional popup definitions to the new dots
+            onEachFeature: function (feature, layer) {
+                if (feature.properties && feature.properties.name) {
+                    let popupText = `<b>${feature.properties.name}</b>`;
+                    if (feature.properties.location) {
+                        popupText += `<br>${feature.properties.location}`;
+                    }
+                    layer.bindPopup(popupText);
+                }
+            }
+        }).addTo(map);
+    })
+    .catch(error => console.error('Error loading or plotting the map data:', error));
+	
+	fetch('2.json')
+    .then(response => response.json())
+    .then(data => {
+        L.geoJSON(data, {
+            // 1. Convert structural point geometries into circle vector elements
+            pointToLayer: function (feature, latlng) {
+                return L.circleMarker(latlng, {
+                    radius: 10,            // Set the circle size to exactly 5 pixels
+                    fillColor: "#ff0000", // Target dot fill color (Red)
+                    color: "#ff0000",     // Target border stroke color (Darker Red)
+                    weight: 1,            // Outline border width line thickness
+                    opacity: 1,           // Outline transparency setting
+                    fillOpacity: 0.9      // Inner fill block color transparency
+                });
+            },
+            // 2. Bind the existing functional popup definitions to the new dots
+            onEachFeature: function (feature, layer) {
+                if (feature.properties && feature.properties.name) {
+                    let popupText = `<b>${feature.properties.name}</b>`;
+                    if (feature.properties.location) {
+                        popupText += `<br>${feature.properties.location}`;
+                    }
+                    layer.bindPopup(popupText);
+                }
+            }
+        }).addTo(map);
+    })
+    .catch(error => console.error('Error loading or plotting the map data:', error));
+	
+	fetch('3.json') // Make sure this matches your actual filename
+    .then(response => response.json())
+    .then(dataArray => {
+        // Loop through each plain object inside the array
+        dataArray.forEach(item => {
+            // Convert string coordinates safely into floating-point numbers
+            const lat = parseFloat(item.latitude);
+            const lng = parseFloat(item.longitude);
+
+            if (!isNaN(lat) && !isNaN(lng)) {
+                // Create a circle marker directly using [lat, lng] array order
+                const marker = L.circleMarker([lat, lng], {
+                    radius: 10,
+                    fillColor: "#ff0000",
+                    color: "#ff0000",
+                    weight: 1,
+                    opacity: 1,
+                    fillOpacity: 0.9
+                });
+
+                // Generate popup string using the new property names
+                let popupText = `<b>${item.name}</b><br>${item.address}, ${item.city}`;
+                if (item.telephone) {
+                    popupText += `<br><b>Phone:</b> ${item.telephone}`;
+                }
+                
+                // Bind the text and commit the point onto your active map container
+                marker.bindPopup(popupText).addTo(map);
+            }
+        });
+    })
+    .catch(error => console.error('Error loading or plotting the raw JSON data:', error));
+	
+	// 7. Extract processed GeoJSON point parameters asynchronously 
+        fetch('4_1.json')
+            .then(response => response.json())
+            .then(geoJsonData => {
+                L.geoJSON(geoJsonData, {
+                    
+                    // Transform raw geographical coordinates into size 5 red vector dots
+                    pointToLayer: function (feature, latlng) {
+                        return L.circleMarker(latlng, {
+                            radius: 10,            // Static size footprint matching criteria
+                            fillColor: "#ff0000", // Bright Red Interior color
+                            color: "#ff0000",     // Dark Red Border stroke
+                            weight: 1,            // Outline border width line thickness
+                            opacity: 1,           // Full outline visibility transparency setting
+                            fillOpacity: 0.95     // Opaque layout balance fill block
+                        });
+                    },
+                    
+                    // Format informative descriptions nested securely inside popup nodes
+                    onEachFeature: function (feature, layer) {
+                        if (feature.properties) {
+                            const p = feature.properties;
+                            const phoneStr = p.telephone ? `<br><b>Phone:</b> ${p.telephone}` : '';
+                            
+                            const popupLayout = `
+                                <div style="font-family: sans-serif; font-size: 12px; line-height: 1.4;">
+                                    <h4 style="margin: 0 0 5px 0; color: #b30000; font-size: 14px;">${p.name}</h4>
+                                    <b>Location:</b> ${p.address}, ${p.city}<br>
+                                    <b>Plugs:</b> ${p.plugs}<br>
+                                    <b>Network Vendor:</b> ${p.vendor ? p.vendor : 'Generic'}
+                                    ${phoneStr}
+                                </div>
+                            `;
+                            layer.bindPopup(popupLayout);
+                        }
+                    }
+                }).addTo(map);
+            })
+            .catch(error => console.error('Map parsing initialization error trace:', error));
+	
+	fetch('5.json')
+    .then(response => response.json())
+    .then(data => {
+        L.geoJSON(data, {
+            // 1. Convert structural point geometries into circle vector elements
+            pointToLayer: function (feature, latlng) {
+                return L.circleMarker(latlng, {
+                    radius: 10,            // Set the circle size to exactly 5 pixels
+                    fillColor: "#ff0000", // Target dot fill color (Red)
+                    color: "#ff0000",     // Target border stroke color (Darker Red)
+                    weight: 1,            // Outline border width line thickness
+                    opacity: 1,           // Outline transparency setting
+                    fillOpacity: 0.9      // Inner fill block color transparency
+                });
+            },
+            // 2. Bind the existing functional popup definitions to the new dots
+            onEachFeature: function (feature, layer) {
+                if (feature.properties && feature.properties.name) {
+                    let popupText = `<b>${feature.properties.name}</b>`;
+                    if (feature.properties.location) {
+                        popupText += `<br>${feature.properties.location}`;
+                    }
+                    layer.bindPopup(popupText);
+                }
+            }
+        }).addTo(map);
+    })
+    .catch(error => console.error('Error loading or plotting the map data:', error));
+	
+    </script>
+</body>
+</html>

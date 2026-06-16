@@ -1,0 +1,905 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5280215662901,
+          27.9110123683988
+        ]
+      },
+      "properties": {
+        "name": "Royals Home Resort",
+        "streetAddress": "WG6H+93, Aanbu Khaireni",
+        "addressLocality": "Aanbu Khaireni",
+        "addressRegion": "Gandaki",
+        "addressCountry": "NP",
+        "telephone": "+977065540269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9896654732624,
+          27.2964565441165
+        ]
+      },
+      "properties": {
+        "name": "Quick20 Riverside Hotel",
+        "streetAddress": "E - W Hwy, Amlekhganj 44400",
+        "addressLocality": "Amlekhganj",
+        "addressRegion": "Bagmati",
+        "addressCountry": "NP",
+        "telephone": "+977053570030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9911416210644,
+          27.2922006846168
+        ]
+      },
+      "properties": {
+        "name": "MS Charging Station",
+        "streetAddress": "Amlekhgunj-22, Sub-Metropolitan City",
+        "addressLocality": "Amlekhgunj",
+        "addressRegion": "Madhesh",
+        "addressCountry": "NP",
+        "telephone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8479649703069,
+          28.2856793367421
+        ]
+      },
+      "properties": {
+        "name": "Hamro Bhandari Recharge Center",
+        "streetAddress": "Annapurna-3, Kaski, Gandaki Province",
+        "addressLocality": "Annapurna",
+        "addressRegion": "Gandaki",
+        "addressCountry": "NP",
+        "telephone": "+9779864421491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1273685786897,
+          27.9775232248708
+        ]
+      },
+      "properties": {
+        "name": "theeGO Chargepoint, Sandikharka",
+        "streetAddress": "X4HG+3V6, Sandhikharka 32700",
+        "addressLocality": "Argakhachi",
+        "addressRegion": "Lumbini",
+        "addressCountry": "NP",
+        "telephone": "+9779847412987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.072414018003,
+          27.8381836931094
+        ]
+      },
+      "properties": {
+        "name": "Hotel Durbar, Supadeurali, Arghakhanchi,",
+        "streetAddress": "Sitganga - 4 , Bhedamare, Supadeurali",
+        "addressLocality": "Arghakhanchi",
+        "addressRegion": "Lumbini",
+        "addressCountry": "NP",
+        "telephone": "9857055554"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.562056028882,
+          28.8135621428909
+        ]
+      },
+      "properties": {
+        "name": "Hotel Suvidha",
+        "streetAddress": "RH76+CR4, Attariya 10900",
+        "addressLocality": "Attariya",
+        "addressRegion": "Sudurpaschim",
+        "addressCountry": "NP",
+        "telephone": "9858427120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5604751537545,
+          28.8132742589892
+        ]
+      },
+      "properties": {
+        "name": "MAW Vriddhi, Attariya",
+        "streetAddress": "RH76+946, Attariya 10900, Nepal",
+        "addressLocality": "Attariya",
+        "addressRegion": "Sudurpaschim",
+        "addressCountry": "NP",
+        "telephone": "+9779802573762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6006307153988,
+          28.2666416420405
+        ]
+      },
+      "properties": {
+        "name": "Lasakusa Cafe & Resturant",
+        "streetAddress": "Jilla Khelkud Bikash Samiti,Hallan Chowk, \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u092e\u093e\u0930\u094d\u0917 02, Baglung 33300",
+        "addressLocality": "Baglung",
+        "addressRegion": "Gandaki",
+        "addressCountry": "NP",
+        "telephone": "+9779748764944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5677367250577,
+          28.3497706873068
+        ]
+      },
+      "properties": {
+        "name": "MAW Vriddhi Baglung Bus Park",
+        "streetAddress": "8HX9+W35, Beni 33200",
+        "addressLocality": "Baglung",
+        "addressRegion": "Gandaki",
+        "addressCountry": "NP",
+        "telephone": "+9779857620636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6746603234223,
+          28.2234306510825
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station CCS, Kushma",
+        "streetAddress": "Narayansthan, Kushma 33400",
+        "addressLocality": "Baglung",
+        "addressRegion": "Gandaki",
+        "addressCountry": "NP",
+        "telephone": "-"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4155185015377,
+          27.9554866273371
+        ]
+      },
+      "properties": {
+        "name": "Bandipur Charging and Refresh Station",
+        "streetAddress": "XC76+42V, Dumre - Besishahar-Chame Highway, Bhanu 33914",
+        "addressLocality": "Bandipur",
+        "addressRegion": "Gandaki",
+        "addressCountry": "NP",
+        "telephone": "+9779856080110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4063147043529,
+          27.966395286017
+        ]
+      },
+      "properties": {
+        "name": "Electronic Charging Station",
+        "streetAddress": "Bandipur 01, Dumre Tanahun",
+        "addressLocality": "Bandipur",
+        "addressRegion": "Gandaki",
+        "addressCountry": "NP",
+        "telephone": "+9779856007383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4154235190253,
+          27.9554063110757
+        ]
+      },
+      "properties": {
+        "name": "MAW Bandipur",
+        "streetAddress": "XC76+42V, Dumre - Besishahar-Chame Highway, Bhanu 33914",
+        "addressLocality": "Bandipur",
+        "addressRegion": "Gandaki",
+        "addressCountry": "NP",
+        "telephone": "+9779856027830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5419311044989,
+          27.6256359599641
+        ]
+      },
+      "properties": {
+        "name": "MAW Vriddhi Banepa",
+        "streetAddress": "Banepa 28 Kilo",
+        "addressLocality": "Banepa",
+        "addressRegion": "Bagmati",
+        "addressCountry": "NP",
+        "telephone": "+9779861285317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5022651347756,
+          27.6320691057248
+        ]
+      },
+      "properties": {
+        "name": "NEA GBT-CCS, Banepa, Rabi Bhawan",
+        "streetAddress": "JGJ2+RV7 Rabi bhawan, Araniko Highway, Ugratara Janagal 45210",
+        "addressLocality": "Banepa",
+        "addressRegion": "Bagmati",
+        "addressCountry": "NP",
+        "telephone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6364422984804,
+          28.0657325175439
+        ]
+      },
+      "properties": {
+        "name": "MAW Vriddhi Banke Bus Park",
+        "streetAddress": "Banke Bus Park",
+        "addressLocality": "Banke",
+        "addressRegion": "Lumbini",
+        "addressCountry": "NP",
+        "telephone": "+9779848030958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7874460464985,
+          27.5565176274605
+        ]
+      },
+      "properties": {
+        "name": "MAW Vriddhi Bardaghat",
+        "streetAddress": "HQ4P+HXP Bardaghat",
+        "addressLocality": "Bardaghat",
+        "addressRegion": "Lumbini",
+        "addressCountry": "NP",
+        "telephone": "+9779857080110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9189893049337,
+          26.9803364176774
+        ]
+      },
+      "properties": {
+        "name": "Bauwa Hotel And Guest House",
+        "streetAddress": "XWJ9+2HQ, Mithila 45600",
+        "addressLocality": "Bardibas",
+        "addressRegion": "2",
+        "addressCountry": "NP",
+        "telephone": "+9779841808341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9032985334528,
+          26.9997138539563
+        ]
+      },
+      "properties": {
+        "name": "Hotel Gunja Bardibas",
+        "streetAddress": "Bardibas",
+        "addressLocality": "Bardibas",
+        "addressRegion": "2",
+        "addressCountry": "NP",
+        "telephone": "+97744550620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9013104860623,
+          26.996891221045
+        ]
+      },
+      "properties": {
+        "name": "Hotel Yes",
+        "streetAddress": "B.P. Highway, Bardibas 45701",
+        "addressLocality": "Bardibas",
+        "addressRegion": "Madhesh",
+        "addressCountry": "NP",
+        "telephone": "9851115804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8998940886903,
+          26.9955157673537
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station CCS, Bardibas",
+        "streetAddress": "Bardibas 45701",
+        "addressLocality": "Bardibas",
+        "addressRegion": "Madhesh",
+        "addressCountry": "NP",
+        "telephone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8978848833031,
+          26.9883978905978
+        ]
+      },
+      "properties": {
+        "name": "Ridhi EV Charging Station",
+        "streetAddress": "Near Rashwa Bivag",
+        "addressLocality": "Bardibas",
+        "addressRegion": "Bagmati",
+        "addressCountry": "NP",
+        "telephone": "+9779851242682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0906466453591,
+          28.4290107957729
+        ]
+      },
+      "properties": {
+        "name": "MAW Vriddhi Bardiya",
+        "streetAddress": "C3HR+H7R Rajapur",
+        "addressLocality": "Bardiya",
+        "addressRegion": "Lumbini",
+        "addressCountry": "NP",
+        "telephone": "+9779858423297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.1433128998478,
+          26.8410974508524
+        ]
+      },
+      "properties": {
+        "name": "Belaka Rivers Beach Resort",
+        "streetAddress": "Sombare, 56300",
+        "addressLocality": "Belaka",
+        "addressRegion": "Koshi",
+        "addressCountry": "NP",
+        "telephone": "9863586091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.0583841946059,
+          26.8171624117492
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station, Belaka",
+        "streetAddress": "Rampur Thokshila, Belaka Udayapur",
+        "addressLocality": "Belaka",
+        "addressRegion": "Koshi",
+        "addressCountry": "NP",
+        "telephone": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.8798730928683,
+          26.8045742363845
+        ]
+      },
+      "properties": {
+        "name": "Adhikari Hotel and Lodge (TATA Fast AC)",
+        "streetAddress": "RV3H+RW7, Beltar Basaha 56300",
+        "addressLocality": "Beltar",
+        "addressRegion": "Koshi",
+        "addressCountry": "NP",
+        "telephone": "9803417005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.57054193055,
+          28.3424634136852
+        ]
+      },
+      "properties": {
+        "name": "MAW Vriddhi Beni",
+        "streetAddress": "8HRC+X67 Beni",
+        "addressLocality": "Beni",
+        "addressRegion": "Gandaki",
+        "addressCountry": "NP",
+        "telephone": "+9779801355602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5666453482534,
+          28.3512983922161
+        ]
+      },
+      "properties": {
+        "name": "MAW Vriddhi Beni Buspark",
+        "streetAddress": "9H28+GM2 Beni",
+        "addressLocality": "Beni",
+        "addressRegion": "Gandaki",
+        "addressCountry": "NP",
+        "telephone": "+9779857620636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.7892985042695,
+          27.813021617662
+        ]
+      },
+      "properties": {
+        "name": "CG Fast Charging Station",
+        "streetAddress": "RQ7Q+5MH, H04, Benighat 45100, Nepal",
+        "addressLocality": "Benighat",
+        "addressRegion": "Bagmati",
+        "addressCountry": "NP",
+        "telephone": "9851051074"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8155599660531,
+          27.811864577462
+        ]
+      },
+      "properties": {
+        "name": "MAW Vriddhi, Hotel Peace Heaven",
+        "streetAddress": "RR68+Q64, H04, Benighat 45100",
+        "addressLocality": "Benighat",
+        "addressRegion": "Bagmati",
+        "addressCountry": "NP",
+        "telephone": "+9779851051074"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8316620932515,
+          27.8127277795652
+        ]
+      },
+      "properties": {
+        "name": "Shreenagar Hotel & Necco Coffee Shop",
+        "streetAddress": "RR7J+49, Benighat 45100",
+        "addressLocality": "Benighat",
+        "addressRegion": "Bagmati",
+        "addressCountry": "NP",
+        "telephone": "+9779851360847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.3760417936936,
+          28.2349068912723
+        ]
+      },
+      "properties": {
+        "name": "Gateway Himalaya Resort",
+        "streetAddress": "Dumre-Beshisahar-Chame Hwy, Besisahar 33600",
+        "addressLocality": "Besisahar",
+        "addressRegion": "Gandaki",
+        "addressCountry": "NP",
+        "telephone": "9856014102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4319643954408,
+          27.5149038191543
+        ]
+      },
+      "properties": {
+        "name": "AK Ev Charging Station",
+        "streetAddress": "GC7J+WQW Siddharthanagar",
+        "addressLocality": "Bhairahawa",
+        "addressRegion": "Lumbini",
+        "addressCountry": "NP",
+        "telephone": "+9779847023005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.476410364383,
+          27.5131540877196
+        ]
+      },
+      "properties": {
+        "name": "Bodhi Redsun-Shinee Premiere",
+        "streetAddress": "Basantapur 8, Siddharthanagar 32900",
+        "addressLocality": "Bhairahawa",
+        "addressRegion": "Lumbini",
+        "addressCountry": "NP",
+        "telephone": "+97771525957"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4308179929136,
+          27.5136288441539
+        ]
+      },
+      "properties": {
+        "name": "EV Charging Station",
+        "streetAddress": "GC7J+HPX, Buddha Chowk, Siddharthanagar 32900",
+        "addressLocality": "Bhairahawa",
+        "addressRegion": "Lumbini",
+        "addressCountry": "NP",
+        "telephone": "+9779857078611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4551035964025,
+          27.5246392545317
+        ]
+      },
+      "properties": {
+        "name": "Everest Petrol Pump",
+        "streetAddress": "GFF4+W3Q, Siddharthanagar 32900",
+        "addressLocality": "Bhairahawa",
+        "addressRegion": "Lumbini",
+        "addressCountry": "NP",
+        "telephone": "071572859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4486388474769,
+          27.5015213667567
+        ]
+      },
+      "properties": {
+        "name": "Hotel Nirvana by Luxury International",
+        "streetAddress": "Paklihawa Road, Siddharthanagar (Bhairahawa)",
+        "addressLocality": "Bhairahawa",
+        "addressRegion": "Lumbini",
+        "addressCountry": "NP",
+        "telephone": "071570837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.456683542912,
+          27.5033696177794
+        ]
+      },
+      "properties": {
+        "name": "Jagat Motors (Hyundai Bhairahawa)",
+        "streetAddress": "GF34+8MV Siddharthanagar",
+        "addressLocality": "Bhairahawa",
+        "addressRegion": "Lumbini",
+        "addressCountry": "NP",
+        "telephone": "+9779802608803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4561846502268,
+          27.5038643002177
+        ]
+      },
+      "properties": {
+        "name": "Jagat Motors",
+        "streetAddress": "Siddharthanagar, Bhairahawa",
+        "addressLocality": "Bhairawaha",
+        "addressRegion": "Lumbini",
+        "addressCountry": "NP",
+        "telephone": "+97771525428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4800836627267,
+          27.586142745314
+        ]
+      },
+      "properties": {
+        "name": "Sipradi Trading (TATA), Bhairawaha",
+        "streetAddress": "HFMC+FPR, Patthardada 32903",
+        "addressLocality": "Bhairawaha",
+        "addressRegion": "Lumbini",
+        "addressCountry": "NP",
+        "telephone": "+977071561033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4106133232422,
+          27.6703997599447
+        ]
+      },
+      "properties": {
+        "name": "Bhaktapur Charging Station",
+        "streetAddress": "Sallaghari 11, Bhaktapur",
+        "addressLocality": "Bhaktapur",
+        "addressRegion": "Bagmati",
+        "addressCountry": "NP",
+        "telephone": "+9779701323134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3579846785307,
+          27.6755820003823
+        ]
+      },
+      "properties": {
+        "name": "Durga Mata Ev Charging Station",
+        "streetAddress": "Kaushaltar, Bhaktapur",
+        "addressLocality": "Bhaktapur",
+        "addressRegion": "Koshi",
+        "addressCountry": "NP",
+        "telephone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3794147913749,
+          27.6738028076204
+        ]
+      },
+      "properties": {
+        "name": "Green Automobiles (DFSK EV Nepal)",
+        "streetAddress": "Chardobato",
+        "addressLocality": "Bhaktapur",
+        "addressRegion": "Bagmati",
+        "addressCountry": "NP",
+        "telephone": "+9779802024682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4140501079125,
+          27.6762021174481
+        ]
+      },
+      "properties": {
+        "name": "Khwopa EV Charge Center",
+        "streetAddress": "Ittapako , Bhaktapur",
+        "addressLocality": "Bhaktapur",
+        "addressRegion": "Bagmati",
+        "addressCountry": "NP",
+        "telephone": "+9779841514549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4105274239691,
+          27.6703809078436
+        ]
+      },
+      "properties": {
+        "name": "MAW Vriddhi Speed Charging",
+        "streetAddress": "Sallaghari 11, Bhaktapur",
+        "addressLocality": "Bhaktapur",
+        "addressRegion": "Bagmati",
+        "addressCountry": "NP",
+        "telephone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3767700244878,
+          27.6739951023381
+        ]
+      },
+      "properties": {
+        "name": "MG Showroom Bhaktapur",
+        "streetAddress": "M9FG+HPJ Madhyapur Thimi",
+        "addressLocality": "Bhaktapur",
+        "addressRegion": "Bagmati",
+        "addressCountry": "NP",
+        "telephone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4559578837066,
+          27.6873565167369
+        ]
+      },
+      "properties": {
+        "name": "NEA Charging Station CCS, Kharipati",
+        "streetAddress": "Kharipati",
+        "addressLocality": "Bhaktapur",
+        "addressRegion": "Bagmati",
+        "addressCountry": "NP",
+        "telephone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4131622139855,
+          27.6686474174296
+        ]
+      },
+      "properties": {
+        "name": "Sipradi Service Center - Bhaktapur Branch",
+        "streetAddress": "Araniko Highway, Suryabinayak 44800",
+        "addressLocality": "Bhaktapur",
+        "addressRegion": "Bagmati",
+        "addressCountry": "NP",
+        "telephone": "9801008333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.394764437494,
+          27.6750140091958
+        ]
+      },
+      "properties": {
+        "name": "Sipradi Trading P. Ltd, Bhaktapur",
+        "streetAddress": "Madhyapur Thimi 00977",
+        "addressLocality": "Bhaktapur",
+        "addressRegion": "Bagmati",
+        "addressCountry": "NP",
+        "telephone": "015914771"
+      }
+    }
+  ]
+}
